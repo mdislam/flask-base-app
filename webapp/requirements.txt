@@ -1,5 +1,5 @@
 enum34==1.1.6
-Flask==0.12.2
+Flask==1.0
 flask-restplus==0.11.0
 gunicorn==19.6.0
 pylint==1.9.5
